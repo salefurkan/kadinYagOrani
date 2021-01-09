@@ -1,6 +1,8 @@
-# vki_hesaplama
+# yagOrani_hesaplama
 
-A new Flutter project.
+Herkese merhabalar,
+Yazmış olduğum bu app sayesinde kadınlar yağ oranlarını hesaplayabilir.
+Eğer tekrar vakit ayırabilirsem erkekler içinde uygulamayı güncelleyeceğim.
 
 ## Getting Started
 
