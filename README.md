@@ -1,7 +1,7 @@
 # yagOrani_hesaplama
 
 Herkese merhabalar,
-Yazmış olduğum bu app sayesinde kadınlar yağ oranlarını hesaplayabilir.
+Flutter ile yazmış olduğum bu app sayesinde kadınlar yağ oranlarını hesaplayabilir.
 Eğer tekrar vakit ayırabilirsem erkekler içinde uygulamayı güncelleyeceğim.
 
 ## Getting Started
